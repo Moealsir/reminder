@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot",
   "version": "1.0.0",
-  "description": "Bot WhatsApp - NodeJS whatsapp bot, many features Votekick, Video to Sticker, Image to Sticker, Cash system, Admin tools and many more",
+  "description": "Bot WhatsApp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
